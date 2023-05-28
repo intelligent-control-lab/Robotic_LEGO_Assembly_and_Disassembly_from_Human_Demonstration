@@ -5,6 +5,8 @@ It implements LEGO assembly and disassembly from human demonstration.
 ## Prerequisites
 Linux (All the modules were tested on Linux Ubuntu 18.04 and 20.04.)
 
+ROS
+
 Eigen 3.3.7
 
 OpenCV
