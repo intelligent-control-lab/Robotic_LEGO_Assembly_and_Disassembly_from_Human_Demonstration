@@ -1,6 +1,32 @@
-# Siemens_Project_2022-23
-This repo is the code deliverable for 2022-23 Siemens project phase 2.
-It implements LEGO assembly and disassembly from human demonstration.
+# Robotic LEGO Assembly and Disassembly from Human Demonstration
+This repo implements LEGO assembly and disassembly from human demonstration.
+
+
+## Copyright
+
+***********************************************************************************************************************************************************************
+Copyright notice for IP Docket # 2023-234 and IP Docket # 2023-235.
+This repo contains files for LEGO assembly and disassembly from human demonstration.
+Copyright (C) 2023
+
+Authors:
+Ruixuan Liu: ruixuanl@andrew.cmu.edu
+Changliu Liu : cliu6@andrew.cmu.edu
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 3
+of the License, or (at your option) any later version.
+ 
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+***********************************************************************************************************************************************************************
+
 
 ## Prerequisites
 Linux (All the modules were tested on Linux Ubuntu 18.04 and 20.04.)

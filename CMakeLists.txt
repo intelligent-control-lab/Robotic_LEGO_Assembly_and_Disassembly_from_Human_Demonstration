@@ -1,4 +1,5 @@
 # This file is the cmake file of the LEGO assembly from human demonstration project.
+# Copyright notice for IP Docket # 2023-234 and IP Docket # 2023-235.
 # Copyright (C) 2023
 
 # Authors:
