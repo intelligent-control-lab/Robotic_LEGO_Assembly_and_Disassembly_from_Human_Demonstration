@@ -52,6 +52,7 @@ The task graph will be stored at `/path/to/repo/config/assembly_tasks/`.
 
 
 ## Use Robot
+This repo implements robotic LEGO assembly with a FANUC LR-mate 200id/7L robot. The robot controller is implemented using Stream Motion.
 ### Setup Ethernet
 1. Connect to the robot via an Ethernet cable.
 2. Set PC IP address to `192.168.1.xxx`, except `192.168.1.100` (robot IP). A valid IP address could be `192.168.1.101`. 
